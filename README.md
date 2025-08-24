@@ -1,7 +1,7 @@
 
 # ArtistTurtle
 
-ArtistTurtle is an interactive art tool using Python's Turtle module to create **colorful, rotating star and spiral patterns**.  
+ArtistTurtle is an minimal, interactive art tool using Python's Turtle module to create **colorful, rotating star and spiral patterns**.  
 With a Tkinter GUI, you can easily adjust **angle, step size, color count, and animation speed**.
 
 ## Features
@@ -15,6 +15,7 @@ With a Tkinter GUI, you can easily adjust **angle, step size, color count, and a
   - Animation speed (1–50 ms)
 - User-friendly Tkinter interface
 - Supports the following languages: German, English, Turkish, and Chinese.
+- Optional EXE version for easy use without Python
 
 ## Examples:
 
