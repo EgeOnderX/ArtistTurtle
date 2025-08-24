@@ -31,6 +31,13 @@ With a Tkinter GUI, you can easily adjust **angle, step size, color count, and a
 
 
 
+---
+
+
+<img width="897" height="727" alt="image" src="https://github.com/user-attachments/assets/46d4ceae-0063-4739-b1b9-a6c78ca7f64c" />
+
+
+---
 
 ## Versions
 
