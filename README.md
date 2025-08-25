@@ -16,6 +16,7 @@ With a Tkinter GUI, you can easily adjust **angle, step size, color count, and a
 - User-friendly Tkinter interface
 - Supports the following languages: German, English, Turkish, and Chinese.
 - Optional EXE version for easy use without Python
+- Written fully in Python.
 
 ## Examples:
 
